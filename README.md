@@ -1,7 +1,8 @@
 ```markdown
 # Web Scraper
 
-This is a simple Python web scraper that scans a target URL for email addresses. It starts with a user-defined URL and crawls through the web to find email addresses on web pages.
+This is a simple Python web scraper that scans a target URL for email addresses.
+It starts with a user-defined URL and crawls through the web to find email addresses on web pages.
 
 ## Features
 
